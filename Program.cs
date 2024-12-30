@@ -1,13 +1,13 @@
-﻿using HelloWorld;
-
-namespace learning{
+﻿namespace learning
+{
 
     internal class Program
     {
         private static void Main(string[] args)
         {
             HelloWorld.HW.HelloWorld();
-            //this is a comment
+            //variables should be camelCase
+            InputOutput.IO.InOut();
         }
     }
 }
