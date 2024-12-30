@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L/LLlE4++KsxU/uM3RH96gzdVjkyYAD+vw8lb1jKblrK9sujnpbhCsgVq3cfidl5D2FNq3vMthtOHELmcoo3EQ==",
+  "success": true,
+  "projectFilePath": "/home/meow/code/C#/learning/learning.csproj",
+  "expectedPackageFiles": [
+    "/home/meow/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
